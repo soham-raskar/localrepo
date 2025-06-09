@@ -17,6 +17,7 @@ int main()
       }
 
       else
-            printf("Odd number ");
+
+                  printf("Odd number ");
       return 0;
 }
